@@ -1,0 +1,62 @@
+selector {
+ property: value;
+}
+
+.row1 {
+align: left;
+position: static;
+}
+
+.row2 {
+align: right;
+position: static;
+}
+
+body {
+         background-color:#06060D;
+         margin-left: auto;
+         margin-right: auto;
+         width: 95%;
+         }
+
+.podcasttable {
+         border: ridge;
+         border-color: white;
+         color: pink;
+         align: center;
+         position: relative;
+         top: 20px;
+}
+
+.red {
+font-family: cursive;
+font-size: 14px;
+color: blue;
+
+}
+
+   h1 {
+        color:lightgrey;
+
+         }
+
+.song  {
+        color:yellow;
+                border:solid;
+                border-color: green;
+                border-radius: 10px;
+                width: 250px;
+        }
+marquee {
+color:white;
+font-size:24px;
+}
+
+th {
+    color:blue;
+} /* FINISH TABLE COLORS! :D */
+
+a {
+text-decoration: none;
+hover:red;
+}
